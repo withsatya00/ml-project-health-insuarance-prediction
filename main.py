@@ -2,6 +2,7 @@
 
 import streamlit as st
 from prediction_helper import predict
+import joblib
 
 # Define the page layout
 st.title('Health Insurance Cost Predictor')
