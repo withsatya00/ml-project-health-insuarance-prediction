@@ -1,6 +1,6 @@
-joblib == 1.1.1
-pandas == 2.2.3
-sklearn == 1.5.1
-xgboost == 3.0.4
-numpy == 1.26.4
-streamlit == 1.37.1
+streamlit
+scikit-learn
+joblib
+pandas
+numpy
+xgboost
